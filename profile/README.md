@@ -5,14 +5,13 @@
 
 ## About It
 
-MBS Energy Central repository for package, models and project-code
+MBS Energy Central repository hosts all packages, models and project-code
 
 ## Our Projects
 
-- **[Project Name 1]**: [Brief description of Project 1]
-- **[Project Name 2]**: [Brief description of Project 2]
-- **[Project Name 3]**: [Brief description of Project 3]
-- ... and many more. Check out our [repositories](link-to-your-organization-repositories).
+- **[Report Scenario]**: [Brief description of Project 1]
+- **[Sales Matrix]**: [Brief description of Project 2]
+- Check out our [repositories](link-to-your-organization-repositories).
 
 ## Get Involved
 
@@ -28,12 +27,6 @@ We are always on the lookout for [what kind of skills, professionals, or contrib
 - [Facebook](link-to-facebook)
 - [YouTube](link-to-youtube)
 - [Website](link-to-website)
-
-## Support Us
-
-Support our work by [methods of support, e.g., donations, sponsorships, etc.]. Your support is greatly appreciated!
-
-Thank you for visiting our GitHub organization!
 
 ---
 
