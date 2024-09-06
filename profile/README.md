@@ -1,20 +1,14 @@
 
-# Welcome to MBS Energy Central repo!
+# Welcome to MBS Energy Central Repository
 
 ## About It
 
 MBS Energy Central repository hosts all packages, models and project-code
 
-## Our Projects
+## Our Main Repos
 
 - **[Report Scenario]**: Template and workflow to render the Report Scenario
-- **[Stream v2 Jobs]**: Decentralized repo's using `Docker` and `Github Actions`
-
-## Get Involved
-
-We are always on the lookout for [what kind of skills, professionals, or contributions you are looking for]. If you are interested in collaborating or contributing, please feel free to:
-- 📫 Inform others about your progress.
-- 🤝 Collaborate on existing projects or propose new ideas.
+- **[FLUX]**: Decentralized platform using `Docker` and `Github Actions` for data transmission 
 
 ---
 
